@@ -1,6 +1,6 @@
 # GitStart2k19
 
-This repo is here for the pupose of learning and practicing git.
+This repo is here for the purpose of learning and practicing git.
 
 ## Things to do
 
@@ -23,4 +23,3 @@ Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
 Arpit Kumar Mishra - [armish24](https://github.com/armish24)
 
 Shubham Singh - [shubham7298](https://github.com/shubham7298)
-
