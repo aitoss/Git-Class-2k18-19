@@ -29,3 +29,5 @@ Devansh Sharma - [devansh9011](https://github.com/devansh9011)
 Satya Prakash - [satya9500](https://github.com/satya9500)
 
 Krunal Patil - [patilkrunal](https://github.com/patilkrunal)
+
+Pranay Mishra - [Pranay86](https://github.com/Pranay86)
