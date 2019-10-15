@@ -33,4 +33,5 @@ Satya Prakash - [satya9500](https://github.com/satya9500)
 Krunal Patil - [patilkrunal](https://github.com/patilkrunal)
 
 Pranay Mishra - [Pranay86](https://github.com/Pranay86)
-hey 2nd account for hacktober only.
+
+Rahul Choubey-[rahul phoenix]
